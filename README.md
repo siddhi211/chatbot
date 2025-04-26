@@ -33,3 +33,4 @@ python -c "import torch; print(torch.__version__)"
 The web interface will be available at http://localhost:7860 by default
 Technology Used - Gradio, Hugging Face Transformers
 
+![image](https://github.com/user-attachments/assets/24404f4c-0b0e-4cb0-a10c-c369ab6a0d33)
