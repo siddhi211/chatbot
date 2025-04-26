@@ -31,5 +31,5 @@ python -c "import torch; print(torch.__version__)"
 ## Usage
 The web interface will be available at http://localhost:7860 by default
 
-![image](https://github.com/user-attachments/assets/aec89414-7c09-4837-a3df-5e4084a343d7)
+![image](https://github.com/user-attachments/assets/24404f4c-0b0e-4cb0-a10c-c369ab6a0d33)
 
