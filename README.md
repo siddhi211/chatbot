@@ -6,6 +6,7 @@ A simple interactive chatbot built using Microsoft's DialoGPT-medium model with 
 - Conversational AI powered by DialoGPT-medium
 - User-friendly web interface using Gradio
 - Real-time response generation
+- Conversation memory (maintains context across messages)
 
 ## Prerequisites
 - Python 3.7 or higher
@@ -30,3 +31,5 @@ python -c "import torch; print(torch.__version__)"
 ```
 ## Usage
 The web interface will be available at http://localhost:7860 by default
+Technology Used - Gradio, Hugging Face Transformers
+
